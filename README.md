@@ -15,7 +15,7 @@ Calendario das aulas do Youtube
 * 14/abr - Estrutura de Dados 06: Vetores e Arrays: Verificar se elemento existe no vetor
 * 15/abr - Estrutura de Dados 07: Vetores e Arrays: Adicionar elemento em qualquer posição
 * 18/abr - Phonegap 15: Cadê o cordova.js?
-* 29/abr - Java 54: Enumeradores como classe (construtor e métodos)
+* 19/abr - Java 54: Enumeradores como classe (construtor e métodos)
 * 20/abr - Estrutura de Dados 08: Vetores e Arrays: Aumentar capacidade
 * 21/abr - Estrutura de Dados 09: Vetores e Arrays: Remover elemento
 * 22/abr - Estrutura de Dados 10: Vetores e Arrays: Generalizar o tipo do vetor
