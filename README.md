@@ -1,5 +1,5 @@
 # calendario
-Calendario das aulas do Youtube
+Calendario das aulas do Youtube (aulas toda segunda, quarta e sexta)
 - [https://www.youtube.com/user/loianeg](https://www.youtube.com/user/loianeg)
 
 ### Abril 2016
@@ -26,16 +26,31 @@ Calendario das aulas do Youtube
 * 29/abr - Estrutura de Dados: Vetores e Arrays: Exer 01 método contém
 
 ### Maio 2016
-* 02/mai - Phonegap 17
+* 02/mai - Phonegap 17: Plugins Device e Network
 * 04/mai - Java 56
 * 06/mai - ED
-* 09/mai - Phonegap 18
+* 09/mai - Phonegap 18: Alert nativo
 * 11/mai - Java Exercícios
 * 13/mai - ED
-* 16/mai - Phonegap  19
+* 16/mai - Phonegap  19: Geolocation com Google Maps
 * 18/mai - Java 57
 * 20/mai - ED
-* 23/mai - Phonegap  20
+* 23/mai - Phonegap  20: Plugin Camera (fotos)
 * 25/mai - Java 58
 * 27/mai - ED
-* 30/mai - Phonegap 21
+* 30/mai - Phonegap 21: Plugin Contatos
+
+### Junho 2016
+* 01/jun - 
+* 03/jun - 
+* 06/jun - Phonegap
+* 08/jun - 
+* 10/jun - 
+* 13/jun - Phonegap
+* 15/jun - 
+* 17/jun -  
+* 20/jun - Phonegap
+* 22/jun -
+* 24/jun -
+* 27/jun - Phonegap
+* 29/jun -
